@@ -21,6 +21,7 @@ dependencies: []
 repo: https://github.com/ioBroker/ioBroker
 support: https://forum.iobroker.net
 port: 8097
+icon: https://raw.githubusercontent.com/ioBroker/ioBroker.admin/43f8e380f60f7451ef64f6982edb6fd54a384ea1/packages/admin/src-admin/public/img/logo.svg
 gallery:
      - https://www.iobroker.net/assets/screen1-DIwuvGNQ.jpg
      - https://www.iobroker.net/assets/screen2-D-LjMX9K.jpg

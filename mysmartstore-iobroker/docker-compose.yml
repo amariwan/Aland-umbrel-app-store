@@ -12,4 +12,4 @@ services:
                - /dev:/dev
                - /run/dbus:/run/dbus:ro
           environment:
-               - TZ=Europe/Berlin
+               - TZ

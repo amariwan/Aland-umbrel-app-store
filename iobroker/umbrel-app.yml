@@ -23,23 +23,21 @@ support: https://forum.iobroker.net
 port: 8097
 icon: https://raw.githubusercontent.com/ioBroker/ioBroker.admin/43f8e380f60f7451ef64f6982edb6fd54a384ea1/packages/admin/src-admin/public/img/logo.svg
 gallery:
-     - https://www.iobroker.net/assets/screen1-DIwuvGNQ.jpg
-     - https://www.iobroker.net/assets/screen2-D-LjMX9K.jpg
-     - https://www.iobroker.net/assets/screen3-Bu-Ota5Z.jpg
-     - https://www.iobroker.net/assets/screen4-DnWAnplM.jpg
-     - https://www.iobroker.net/assets/screen5-C365aE2H.jpg
+     - https://www.iobroker.net/assets/screen12-CecvqikD.jpg
      - https://www.iobroker.net/assets/screen6-BWVJwFNY.jpg
      - https://www.iobroker.net/assets/screen7-Dxxa_Q2a.jpg
      - https://www.iobroker.net/assets/screen8-DB1TO1rw.jpg
      - https://www.iobroker.net/assets/screen9-CF3MUwf1.jpg
      - https://www.iobroker.net/assets/screen10-dHCwsuMi.jpg
      - https://www.iobroker.net/assets/screen11-DGRrXChA.jpg
-     - https://www.iobroker.net/assets/screen12-CecvqikD.jpg
-     - https://www.iobroker.net/assets/screen13-DnbWX51i.jpg
-     - https://www.iobroker.net/assets/screen14-2w9yIwjS.jpg
+     - https://www.iobroker.net/assets/screen1-DIwuvGNQ.jpg
+     - https://www.iobroker.net/assets/screen2-D-LjMX9K.jpg
+     - https://www.iobroker.net/assets/screen3-Bu-Ota5Z.jpg
+     - https://www.iobroker.net/assets/screen4-DnWAnplM.jpg
+     - https://www.iobroker.net/assets/screen5-C365aE2H.jpg
 path: ''
 defaultUsername: 'admin'
-defaultPassword: 'iobroker'
+defaultPassword: 'admin'
 deterministicPassword: true
 releaseNotes: >-
      Version 2025.6.1 includes updated adapter compatibility and performance improvements to the web UI.

@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  fivem:
+    image: tabarra/fivem
+    container_name: umbrel-fivem
+    restart: unless-stopped
+    environment:
+      - LICENSE_KEY=DEIN_CFX_KEY
+      - SV_HOSTNAME=Umbrel FXServer
+      - SV_MAXPLAYERS=32
+    ports:
+      - "30120:30120/udp"
+      - "30120:30120/tcp"
+      - "40120:40120/tcp"
+    volumes:
+      - ./data:/config

@@ -1,5 +1,5 @@
 manifestVersion: 1.1
-id: iobroker
+id: aland-iobroker
 category: automation
 name: ioBroker
 version: '2025.6.1'

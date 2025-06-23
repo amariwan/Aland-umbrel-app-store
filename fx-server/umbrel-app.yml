@@ -1,0 +1,7 @@
+id: "fivem"
+name: "FXServer (FiveM)"
+description: "Dein eigener FiveM/RedM Server als Docker-App auf UmbrelOS!"
+version: "1.0.0"
+releaseNotes: "Erste Version für Umbrel. Mit txAdmin-Webinterface."
+icon: "assets/icon.png"
+port: 40120

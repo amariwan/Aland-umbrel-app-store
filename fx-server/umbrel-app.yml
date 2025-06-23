@@ -1,7 +1,37 @@
-id: "fivem"
-name: "FXServer (FiveM)"
-description: "Dein eigener FiveM/RedM Server als Docker-App auf UmbrelOS!"
-version: "1.0.0"
-releaseNotes: "Erste Version für Umbrel. Mit txAdmin-Webinterface."
-icon: "assets/icon.png"
+manifestVersion: 1.1
+id: aland-fivem
+category: gaming
+name: FXServer (FiveM)
+version: '2025.6.1'
+tagline: Dein eigener FiveM/RedM Server auf UmbrelOS
+description: >-
+  🎮 FXServer ist der offizielle multiplayer mod framework für GTA V (FiveM) und RDR2 (RedM).
+  Installiere und konfiguriere deinen Server bequem über Docker & txAdmin – ganz ohne
+  teure Server oder komplizierte Setup-Schritte.
+
+  📌 SETUP INSTRUCTIONS:
+
+  - Greife über das Dashboard auf txAdmin (Port 40120) zu  
+  - Manage Ressourcen und `server.cfg` via `/data`-Volume  
+  - Füge Plugins direkt über die txAdmin-Weboberfläche hinzu  
+  - Setup-Schritte: Lizenzkey setzen, Servername wählen, Ports mappen
+
+developer: Umbrel Community
+website: https://fivem.net/
+dependencies: []
+repo: https://github.com/citizenfx/fivem
+support: https://forum.cfx.re/c/fivem
 port: 40120
+icon: https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_fivem.svg
+gallery:
+  - https://icons8.com/icons/set/fivem-server
+  - https://icons8.com/icons/set/fivem-logo-server
+  - https://icons8.com/icons/set/fivem-roleplay-server-logo
+  - https://icons8.com/icons/set/fivem-rp-server-logo
+path: ''
+defaultUsername: ''
+defaultPassword: ''
+deterministicPassword: false
+releaseNotes: ''
+submitter: Aland Baban
+submission: https://github.com/deinrepo/umbrel-apps/pull/1234
